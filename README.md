@@ -15,7 +15,8 @@ This package is to build gradiant and floating Navigation Bar with a few lines o
 <a href="https://lh6.googleusercontent.com/lORLdmT-UdcsJ6KIPpBKsxmTSg0bP9B4VAVGvLztO-EQUpj-i8_5Th0CXA1ZNgKsdJ5RrPRj-68kheNLXf6l=w1920-h902-rw"><img src="https://lh6.googleusercontent.com/lORLdmT-UdcsJ6KIPpBKsxmTSg0bP9B4VAVGvLztO-EQUpj-i8_5Th0CXA1ZNgKsdJ5RrPRj-68kheNLXf6l=w1920-h902-rw" alt="package photo" width = "300px">
 </a>
 <br>
-## Usage
+
+<h3>Usage</h3>
 
 Here is How to use it, You can find Package <a href = "https://github.com/AbdallahAwd/sweet_nav_bar">API</a>
 
