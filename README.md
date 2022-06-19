@@ -12,7 +12,7 @@ This package is to build gradiant and floating Navigation Bar with a few lines o
 <p>To use this package, add <code>sweet_nav_bar</code> as a <a href="https://flutter.dev/docs/development/platform-integration/platform-channels">dependency in your pubspec.yaml file</a>.</p>
 
 <br>
-<img src="https://previews.dropbox.com/p/thumb/ABn1130aXSi03Pyv57NeH6BU1fk0tWeo6kRYwiEKqmUqXlY-02vnnueX_NxOGgPtua2ZXz43PV-sx5a6Q2uSpUDbUMD4K8-Ez67ImzKp6Y4iWXlRt8nkSqb7T6fiZl3KnQFLsydqdaz3jDIbH0gTkgCNsECORCjFBBlrKUCYymT2xJtQrN14Xx_-1M7vTyAOA1G8Yx3kPtHhvDahVVZiVRZnZ6JlO4_Rwt1b8KSGhpBwsAY4Xyn_frarvJnWyABp6CwZy9FDu2J8znsCRQv_5FuhHjUxMEEp04OW7LnCtnQVOCwEEDN5f89xYqKyQ5F90y1dLbEROq4Fi7ar3cSqQFIQ6bS8E-B21bykrGxn6wg4Gcwr5bOHT3UG1wee3pZtHXw/p.gif" width = "300px">
+<img src="https://lh6.googleusercontent.com/lORLdmT-UdcsJ6KIPpBKsxmTSg0bP9B4VAVGvLztO-EQUpj-i8_5Th0CXA1ZNgKsdJ5RrPRj-68kheNLXf6l=w1920-h902-rw" width = "300px">
 
 ## Usage
 
