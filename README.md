@@ -12,7 +12,7 @@ This package is to build gradiant and floating Navigation Bar with a few lines o
 <p>To use this package, add <code>sweet_nav_bar</code> as a <a href="https://flutter.dev/docs/development/platform-integration/platform-channels">dependency in your pubspec.yaml file</a>.</p>
 
 <br>
-<a href=""><img src="" alt="package photo" width = "300px">
+<a href="https://lh3.googleusercontent.com/nVP3n5cIcP6Xqw3Ls2uuza0roYWF7Lsku-nehJsZ_LW8f1aCfIQdRkoiE7RbLgTlopX2dAOzkI3hDUYlPVXV=w1148-h902-rw"><img src="https://lh3.googleusercontent.com/nVP3n5cIcP6Xqw3Ls2uuza0roYWF7Lsku-nehJsZ_LW8f1aCfIQdRkoiE7RbLgTlopX2dAOzkI3hDUYlPVXV=w1148-h902-rw" alt="package photo" width = "300px">
 </a>
 
 ## Usage

@@ -1,6 +1,6 @@
 name: sweet_nav_bar
 description: This package is to build gradiant and floating Navigation Bar with a few lines of code.
-version: 1.0.2
+version: 1.0.4
 homepage: https://github.com/AbdallahAwd/sweet_nav_bar
 
 environment:
