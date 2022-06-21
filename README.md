@@ -13,7 +13,7 @@ This package is to build gradiant and floating Navigation Bar with a few lines o
 
 <br>
 
-<img src="/sweet_nav.gif" width="300px">
+<img src="/sweet_nav.gif" width="300px" height="300px">
 
 ## Usage
 
